@@ -1,0 +1,160 @@
+body{
+
+}
+.food{
+    color:#ffe066;
+}
+.homepage{
+    display: flex;
+}
+.navbar{
+margin-left: 10%;
+}
+nav{
+}
+nav a{
+    text-decoration: none;
+    padding-left: 30px;
+}
+.sign{
+    margin-left: 40%;
+}
+.home{
+    color: #ffe066;
+}
+.firstp{
+    display: flex;
+    background-color: #fff5f5;
+}
+.chick{
+    margin-left: 40%;
+}
+
+.pictures{
+    display: flex;
+    gap: 20px;
+}
+.img{
+    width: 50%;
+    height: 35%;
+    border: none;
+    border-radius: 100px;
+}
+.img1{
+    
+}
+.icons{
+color: yellow2;
+}
+.content2{
+    display: flex;
+}
+.See{
+    background-color: #ffe066;
+}
+.burgger{
+    display: flex;
+     gap: 50px; 
+     background-color:whitesmoke;
+
+}
+
+/* .icons{
+    gap: 40px;
+    display: flex;
+    padding: 20%;
+
+} */
+.iconsGT{
+    display: flex;
+    /* gap:700%; */
+    /* border: solid 12px; */
+    /* align-items: center; */
+    /* text-align: center; */
+    /* height: 20vh; */
+    /* width: 20px; */
+    /* padding-left:40%; */
+    justify-content:space-around ;
+
+
+}
+.iconsGT img{ 
+    height: 150px;
+    width: 80%;
+
+}
+
+ .ic{
+    padding-left:20px; 
+ }
+.PE{
+    width: 70%;
+    height: 50%;
+}
+.phone{
+    width: 250px;
+    height: 400px;
+}
+.Apple{
+    width: 195px;
+    height: 95px;
+}
+.GOgle{
+    width: 250px;
+    height: 100px;
+
+}
+
+.icons{
+    color: #ffe066;
+}
+.phon{
+    display: flex;
+}
+.google{
+display :flex;
+}
+.footer{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.end{
+    padding-left: 20px;
+    margin-left: 5%;
+}
+.copy{
+    background-color: #ffe066;
+    padding: 20px;
+}
+.T{
+margin-left: 15%;
+}
+.burg{
+display: flex;
+gap: 20px;
+}
+.order{
+    background-color: #ffe066;
+    border: none;
+    border-radius: 10px;
+}
+.Button{
+    background-color: #ffe066;
+    border: none;
+    border-radius: 20px;
+}
+.Per{
+    background-color: #ffe066;
+    border: none;
+    border-radius: 20PX;
+}
+.Menu{
+    background-color: #ffe066;
+    border: none;
+    border-radius: 19px;
+}
+.footer{
+    border-top-left-radius: 50px;
+
+}
